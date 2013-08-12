@@ -29,8 +29,8 @@ Simple steps:
 ##Frequently Asked Questions
 
 ####What are the requirements?
- *Requires at least WordPerss version  3
- *PHP 5.2 and up.
+ * Requires at least WordPerss version  3
+ * PHP 5.2 and up.
  
 ##Author
 Ohad Raz http://en.bainternet.info 
@@ -43,19 +43,19 @@ Copyright © 2012 Ohad Raz, <admin@bainternet.info>  , Licensed under the [GPL](
 
 ##Changelog
 ###1.2.8
-   *Fixed tab cookie extra backslash issue.
+   * Fixed tab cookie extra backslash issue.
 
 ###1.2.7
-   *Fixed #36.
-   *Fixed #37.
+   * Fixed #36.
+   * Fixed #37.
    * MP6 css hack Fixed.
 
 ###1.2.6
-   *Better Google Fonts Hanlding (now calls the actuall api)
+   * Better Google Fonts Hanlding (now calls the actuall api)
 
 ###1.2.5
-   *Fix references for the class for PHP 5.4 compatibility.
-   *Fixed google fonts not loading.
+   * Fix references for the class for PHP 5.4 compatibility.
+   * Fixed google fonts not loading.
 
 ###1.2.4
    * Fixed color picker not loading
